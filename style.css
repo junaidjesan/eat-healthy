@@ -1,3 +1,31 @@
-h1{
-    color: green;
-}
+   body{
+    font-family: 'Bitter', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+   }
+
+   .extra{
+    color:#143b7a; text-shadow: 10px 10px 50px 5px black;
+   }
+   .img{
+    margin-left: 25%;
+   }
+   .photo{
+     float: right; height: 500px; width: 480px; margin-top: 15%; 
+   }
+   .skip{
+    margin-left: 15%; margin-top: 20%; color: #575757; font-size: 50px;
+    }
+    .imagine{
+        margin-left: 15%; font-size: 15px; color: #828282;
+    }
+    .first{
+        display: flex;
+    }
+        .follow{
+            text-decoration: none;  padding: 10px; background-image: linear-gradient(#66ffff, #0099ff);
+            box-shadow: 10px 10px 30px 10px #95dce6; border-radius: 10px; color: rgb(14, 57, 63); margin-left: 20%; 
+        }
+        .follow:hover{
+            box-shadow: 10px 10px 80px 5px black; border-radius: 10px; margin-left: 20%; 
+        }
