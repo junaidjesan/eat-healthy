@@ -23,9 +23,45 @@ font-family: 'Raleway', sans-serif;
         display: flex;
     }
         .follow{
-            text-decoration: none;  padding: 10px; background-image: linear-gradient(#66ffff, #0099ff);
-            box-shadow: 10px 10px 30px 10px #95dce6; border-radius: 10px; color: rgb(14, 57, 63); margin-left: 20%; 
+            text-decoration: none;  padding: 10px; background-image: linear-gradient(#56dbdb, #0099ff);
+            box-shadow: 0px 0px 30px 10px #95dce6; border-radius: 10px; color: rgb(14, 57, 63); margin-left: 20%; border: 1px solid black;
         }
         .follow:hover{
-            box-shadow: 10px 10px 80px 5px black; border-radius: 10px; margin-left: 20%; 
+            box-shadow: 0px 0px 200px 10px black; border-radius: 10px; margin-left: 20%; border: 1px solid black;
         }
+        .first2{
+            margin-top: 100px; display: flex;
+        }
+        .section{
+            text-align: left; margin: 200px 200px 0 200px;
+        }
+        .about{
+            text-align: justify; margin-bottom: 30px;
+        }
+        .color{
+            color: #143b7a;
+        }
+        #fol{
+            text-decoration: none;  padding: 10px; background-image: linear-gradient(#56dbdb, #0099ff);
+            box-shadow: 0px 0px 30px 2px #95dce6; border-radius: 10px; color: rgb(14, 57, 63); margin-left: 20%; border: 1px solid black;
+        }
+        #fol:hover{
+            box-shadow: 0px 0px 200px 2px black; border-radius: 10px; margin-left: 20%; border: 1px solid black;
+        }
+        .recipies{
+            display: flex; color: #143b7a;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 706px;
+height: 159px;
+left: 367px;
+top: 1274px;
+
+        }   
+        
+        
