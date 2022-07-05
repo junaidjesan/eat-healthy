@@ -1,7 +1,7 @@
    body{
     font-family: 'Bitter', serif;
 font-family: 'Oswald', sans-serif;
-font-family: 'Raleway', sans-serif;
+font-family: 'Raleway', sans-serif; margin: 0;
    }
 
    .extra{
@@ -63,5 +63,17 @@ left: 367px;
 top: 1274px;
 
         }   
-        
+        .footer{
+            background-color: #143b7a; margin-top: 100px; margin-bottom: 0; padding: 20px; text-align: center;
+        }
+        .section2{
+            display: flex; margin-top: 1500px; margin-left: 250px; margin-right: 200px; 
+        }
+
+    .div{
+     margin-right: 50px;   padding: 20px; box-shadow: 0px 5px 100px 10px rgb(129, 122, 122); border-radius: 15px;
+    }
+    .span{color: #143b7a;
+
+    }
         
